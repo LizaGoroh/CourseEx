@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+//Практическая задача для практики условных операторов (конвертер валют)
+
+using System.Diagnostics;
 using System.Security.Authentication;
 using System.Transactions;
 
