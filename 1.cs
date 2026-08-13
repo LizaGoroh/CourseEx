@@ -1,4 +1,6 @@
-﻿{
+//Практическая задача для расчета урона
+
+{
     int health;
     int armor;
     int damage;
