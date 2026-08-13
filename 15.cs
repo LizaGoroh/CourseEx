@@ -1,4 +1,4 @@
-﻿using Microsoft.Win32.SafeHandles;
+﻿//практика функций (healthbar)
 
 internal class Program
 {
