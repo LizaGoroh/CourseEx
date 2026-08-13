@@ -1,4 +1,4 @@
-﻿
+﻿// практика массивов (игра бродилка)
 
 {
     Console.CursorVisible = false;
