@@ -1,4 +1,6 @@
-﻿{
+//практика циклов (бой игрока с противником)
+
+{
     int playerHealth = 100;
     int playerDamage = 10;
     int enemyHealth = 50;
