@@ -1,4 +1,4 @@
-﻿using System.Dynamic;
+﻿//практика ООП (компьютерный клуб)
 
 internal class Program
 {
