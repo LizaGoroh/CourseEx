@@ -1,4 +1,6 @@
-﻿{
+//практика циклов (ввод пароля с ограниченным кол-вом попыток)
+
+{
     int triesCount = 5;
     string password = "123456";
     string userInput;
