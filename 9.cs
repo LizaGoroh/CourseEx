@@ -1,4 +1,6 @@
-﻿{
+//практика random (игра, бой гладиаторов)
+
+{
     Random rand = new Random();
     float health1 = rand.Next(90, 100);
     int damage1 = rand.Next(5, 20);
