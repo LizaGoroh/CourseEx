@@ -1,4 +1,6 @@
-﻿internal class Program
+//практика ООП (бой героев)
+
+internal class Program
 {
     private static void Main(string[] args)
     {
