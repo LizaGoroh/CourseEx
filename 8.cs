@@ -1,4 +1,6 @@
-﻿{
+//практика переменных с типом random (игра "угадай число")
+
+{
     int number;
     int lower, higher;
     int triesCount = 5;
