@@ -1,4 +1,4 @@
-﻿using System.Reflection.Metadata;
+//практика ООП (программа администрирования кафе)
 
 internal class Program
 {
