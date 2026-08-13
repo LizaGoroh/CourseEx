@@ -1,4 +1,6 @@
-﻿{
+//Практическая задача для расчета покупок в пекарне
+
+{
     int money;
     int food;
     int foodUnitPrice = 10;
