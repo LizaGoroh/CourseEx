@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+﻿//Практическая задача для практики условных операторов
 
 {
     string password = "123qwe";
